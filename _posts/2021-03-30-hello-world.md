@@ -1,10 +1,10 @@
 ---
 title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
+date: 2024-09-23 18:30:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: d14na
 
 toc: true
 comments: true
@@ -29,6 +29,4 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
-
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
+![QQ图片20240923183736](/../d14na.github.io/assets/blog_res/2021-03-30-hello-world.assets/QQ%E5%9B%BE%E7%89%8720240923183736.jpg)
